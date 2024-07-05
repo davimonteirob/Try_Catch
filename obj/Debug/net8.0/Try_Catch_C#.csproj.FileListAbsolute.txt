@@ -1,0 +1,14 @@
+C:\Users\UNICOTD20\source\repos\Try_Catch_C#\Try_Catch_C#\bin\Debug\net8.0\Try_Catch_C#.exe
+C:\Users\UNICOTD20\source\repos\Try_Catch_C#\Try_Catch_C#\bin\Debug\net8.0\Try_Catch_C#.deps.json
+C:\Users\UNICOTD20\source\repos\Try_Catch_C#\Try_Catch_C#\bin\Debug\net8.0\Try_Catch_C#.runtimeconfig.json
+C:\Users\UNICOTD20\source\repos\Try_Catch_C#\Try_Catch_C#\bin\Debug\net8.0\Try_Catch_C#.dll
+C:\Users\UNICOTD20\source\repos\Try_Catch_C#\Try_Catch_C#\bin\Debug\net8.0\Try_Catch_C#.pdb
+C:\Users\UNICOTD20\source\repos\Try_Catch_C#\Try_Catch_C#\obj\Debug\net8.0\Try_Catch_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UNICOTD20\source\repos\Try_Catch_C#\Try_Catch_C#\obj\Debug\net8.0\Try_Catch_C#.AssemblyInfoInputs.cache
+C:\Users\UNICOTD20\source\repos\Try_Catch_C#\Try_Catch_C#\obj\Debug\net8.0\Try_Catch_C#.AssemblyInfo.cs
+C:\Users\UNICOTD20\source\repos\Try_Catch_C#\Try_Catch_C#\obj\Debug\net8.0\Try_Catch_C#.csproj.CoreCompileInputs.cache
+C:\Users\UNICOTD20\source\repos\Try_Catch_C#\Try_Catch_C#\obj\Debug\net8.0\Try_Catch_C#.dll
+C:\Users\UNICOTD20\source\repos\Try_Catch_C#\Try_Catch_C#\obj\Debug\net8.0\refint\Try_Catch_C#.dll
+C:\Users\UNICOTD20\source\repos\Try_Catch_C#\Try_Catch_C#\obj\Debug\net8.0\Try_Catch_C#.pdb
+C:\Users\UNICOTD20\source\repos\Try_Catch_C#\Try_Catch_C#\obj\Debug\net8.0\Try_Catch_C#.genruntimeconfig.cache
+C:\Users\UNICOTD20\source\repos\Try_Catch_C#\Try_Catch_C#\obj\Debug\net8.0\ref\Try_Catch_C#.dll
